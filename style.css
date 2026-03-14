@@ -226,3 +226,15 @@ main {
     border-radius: 5px;
     cursor: pointer;
 }
+
+
+/* FOOTER */
+footer {
+    height: 100px;
+    width: auto;
+    background-color: #1F2937;  
+    color: white; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
